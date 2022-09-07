@@ -73,7 +73,7 @@ const RegistrationForm = () => {
                     </div>
                 </div>
                 <div className={'h-1/6 flex justify-start items-center'}>
-                    <button className={'submit-btn'}>Submit
+                    <button className={'submit-btn'}>Подтвердить
                     </button>
                 </div>
             </div>
